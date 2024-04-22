@@ -9,4 +9,4 @@ Responsive car rental website project with HTML and CSS.
 
 # Link
 
-[Car-Rental Website](https://66252adf1dda68bba5c2c4d6--moonlit-crumble-d7863b.netlify.app/)
+[Car-Rental Website](https://66267ef549525f0bdb090119--lucky-concha-fdf271.netlify.app/)
