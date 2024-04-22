@@ -2,7 +2,7 @@
 
 Responsive car rental website project with HTML and CSS.
 
-# Kullanılan Teknolojiler
+# Kullanılan Teknolojiler
 
 - HTML
 - CSS
