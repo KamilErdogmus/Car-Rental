@@ -497,6 +497,7 @@ footer {
   }
 }
 .mail-box i {
+  overflow: hidden;
   font-size: 3rem;
   color: #18a50c;
 }
